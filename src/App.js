@@ -7,10 +7,10 @@ import UseReducer from './component/Hooks/useReducer'
 const App = () => {
   return (
     <>
-      <UseReducer />
-      {/* <UseEffect /> */}
-      {/* <UseState /> */}
-      {/* <Restuarant /> */}
+      {/* <UseReducer />
+      <UseEffect /> 
+      <UseState /> */}
+      <Restuarant />
     </>
   )
   // return React.createElement("div", {}, "Hello World")
